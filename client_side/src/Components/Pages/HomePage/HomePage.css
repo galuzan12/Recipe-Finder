@@ -1,0 +1,18 @@
+.btnClick{
+    height: 100%;
+}
+.header{
+    font-size: 250%;
+    color: rosybrown;
+    font-weight: 700;
+}
+.sub-header{
+    font-size: 150%;
+    font-weight: 600;
+}
+.btnSearchRow{
+    margin: 2% 0
+}
+.selectBox{
+    margin-top: 2%;
+}
